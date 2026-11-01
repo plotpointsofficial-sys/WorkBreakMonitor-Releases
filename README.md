@@ -6,7 +6,9 @@ Official Windows x64 installers and signed application updates.
 
 Download **WorkBreakMonitorV23_Setup.exe** from [the latest release](https://github.com/plotpointsofficial-sys/WorkBreakMonitor-Releases/releases/latest), then run it. WorkBreak starts in the tray after setup and automatically after Windows sign-in. Windows may put its icon under the hidden-icons arrow.
 
-Open License to copy your Device ID and activate or renew using a key from your license provider. In Preferences, add personal JPEG, PNG or WebP photos for your rest backgrounds. Photos and wellness records stay on your computer.
+Open License to copy your Device ID and activate or renew using a key from your license provider. In Preferences, add personal JPEG, PNG or WebP photos for your rest backgrounds. Choose Male or Female guidance and Preview voice for the included offline neural voice clips. Photos and wellness records stay on your computer.
+
+If your license provider assigns a reporting server, optional device check-ins report activation and recent activity. You can view the server and disable reporting in Preferences. This installer includes no administrator signing keys or admin tools.
 
 ## Free application updates
 
