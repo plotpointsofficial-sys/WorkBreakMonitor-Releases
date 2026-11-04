@@ -2,6 +2,10 @@
 
 Official Windows x64 installers and signed application updates.
 
+**V23.3.0 is available.** Existing users can open About WorkBreak → Check for updates → Download & install. No uninstall or GitHub login is required.
+
+Fresh unlicensed installations receive a seven-day (168-hour) offline trial on first normal launch. Existing valid licenses remain active. Monthly, Annual, Lifetime and Custom licenses are issued by your provider; activation and renewal preserve your local settings, photos and history.
+
 ## Install
 
 Download **WorkBreakMonitorV23_Setup.exe** from [the latest release](https://github.com/plotpointsofficial-sys/WorkBreakMonitor-Releases/releases/latest), then run it. WorkBreak starts in the tray after setup and automatically after Windows sign-in. Windows may put its icon under the hidden-icons arrow.
